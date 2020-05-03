@@ -1,0 +1,2 @@
+rootProject.name='BarberFace'
+include ':app'

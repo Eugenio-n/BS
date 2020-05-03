@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "742804078585",
+    "firebase_url": "https://tourslaba.firebaseio.com",
+    "project_id": "tourslaba",
+    "storage_bucket": "tourslaba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:742804078585:android:8b29b305b06e822b550728",
+        "android_client_info": {
+          "package_name": "com.example.barberface"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "742804078585-a1f7d4insd1crc6kfnkmjtmvjvt57q2t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNXbXn-ge_JvuTQ7TeH6KcaJh6i3qQBlA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "742804078585-a1f7d4insd1crc6kfnkmjtmvjvt57q2t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:742804078585:android:f0b72493e25d2a59550728",
+        "android_client_info": {
+          "package_name": "com.pracktika.diplomtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "742804078585-a1f7d4insd1crc6kfnkmjtmvjvt57q2t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNXbXn-ge_JvuTQ7TeH6KcaJh6i3qQBlA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "742804078585-a1f7d4insd1crc6kfnkmjtmvjvt57q2t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
